@@ -8,6 +8,8 @@
        <div>
          <input type="text" value="C">
          <input type="text value="D">
+       <input type="text" value="C">E
+         <input type="text value="D">F
     <div>
     </body>
     </html>
